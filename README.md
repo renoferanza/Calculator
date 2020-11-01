@@ -1,2 +1,20 @@
-# Calculator Project
- react based calculator
+Calculator
+
+Try It
+---
+
+
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
