@@ -39,5 +39,12 @@
   },
   "description": "Calculator",
   "main": "index.js",
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renoferanza/Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renoferanza/Calculator/issues"
+  }
 }
